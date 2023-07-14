@@ -13,7 +13,7 @@ Python's [juliacall](https://pypi.org/project/juliacall/).
 
 ## Packages
 
-For datasets commom in topology:
+For datasets usual in topology:
 - [GeometricDatasets.jl](https://github.com/JuliaTDA/GeometricDatasets.jl)
 
 For clustering and graph-reducing algorithms, we have 
