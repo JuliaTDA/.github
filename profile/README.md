@@ -13,6 +13,9 @@ Python's [juliacall](https://pypi.org/project/juliacall/).
 
 ## Packages
 
+For datasets commom in topology:
+- [GeometricDatasets.jl](https://github.com/JuliaTDA/GeometricDatasets.jl)
+
 For clustering and graph-reducing algorithms, we have 
 - [TDAmapper.jl](https://github.com/JuliaTDA/TDAmapper.jl): Mapper-like algorithms for clustering and graph-reducing high-dimensional data;
 - ToMATo [to do]: the ToMATo clustering algorithm from [reference].
