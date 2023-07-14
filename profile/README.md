@@ -21,7 +21,8 @@ For persistent homology, there are
 - [Ripserer.jl](https://github.com/mtsch/Ripserer.jl): calculate the Vietoris-Rips filtration and homology, among other things;
 - [PersistenceDiagrams.jl](https://github.com/mtsch/PersistenceDiagrams.jl): create persistence images from persistence diagrams.
 
-Very useful packages to deal with distances, balls and proximity:
+Very useful packages to deal with distances, balls, clustering, proximity, etc.:
 
 - [Distances.jl](https://github.com/JuliaStats/Distances.jl)
 - [NearestNeighbors.jl](https://github.com/KristofferC/NearestNeighbors.jl)
+- [Clustering.jl](https://github.com/JuliaStats/Clustering.jl)
