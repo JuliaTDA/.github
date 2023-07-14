@@ -4,6 +4,15 @@ Topologists of the world, unite!
 
 JuliaTDA is an organization that aims to reunite many packages related to Topological Data Analysis.
 
+## Why Julia?
+
+Why choose Julia over more popular languages like R and Python? Some reasons can be find [here](https://juliadatascience.io/programmers), but in short: 
+it is easy to write math in Julia, it solves the "2 language problem" and we can write very performant code with little effort. 
+Besides that, Julia packages can easily be used by R and Python using R's [JuliaCall](https://github.com/Non-Contradiction/JuliaCall) and 
+Python's [juliacall](https://pypi.org/project/juliacall/).
+
+## Packages
+
 For clustering and graph-reducing algorithms, we have 
 - [TDAmapper.jl](https://github.com/JuliaTDA/TDAmapper.jl): Mapper-like algorithms for clustering and graph-reducing high-dimensional data;
 - ToMATo [to do]: the ToMATo clustering algorithm from [reference].
