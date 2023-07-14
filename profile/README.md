@@ -1,6 +1,6 @@
 # JuliaTDA: Topological Data Analysis in Julia
 
-Topologists of the world, unite!
+> Topologists of the world, unite!
 
 JuliaTDA is an organization that aims to reunite many packages related to Topological Data Analysis.
 
