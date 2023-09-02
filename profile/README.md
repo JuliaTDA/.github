@@ -2,7 +2,9 @@
 
 > Topologists of the world, unite!
 
-JuliaTDA is an organization that aims to reunite many packages related to Topological Data Analysis.
+JuliaTDA is an organization that aims to reunite many packages related to Topological Data Analysis. 
+
+See the roadmap [here](https://github.com/orgs/JuliaTDA/projects/1/views/1).
 
 ## Why Julia?
 
